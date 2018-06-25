@@ -4,7 +4,7 @@ A simple audio and video downloader implemented by Python
 
 ![Imgur](https://i.imgur.com/u8m1njj.png)
 
-**Version：**4.2
+**Version：** 4.2
 
 
 
